@@ -1,4 +1,4 @@
-	Low_nutrition	High_nutrition
+sample 	Low_nutrition	High_nutrition
 SRR5444744	0	1
 SRR5444745	0	1
 SRR5444746	0	1
